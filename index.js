@@ -71,7 +71,7 @@ ScrollReveal(
 
 
     const typed1=new Typed('.multiple-text1',{
-        strings:['FullStack Devloper','Python Devloper','Java Devloper'],
+        strings:['FullStack Devloper','Python Devloper','Backend Devloper'],
         typeSpeed:100,
         backSpeed:100,
         backDelay:1000,
